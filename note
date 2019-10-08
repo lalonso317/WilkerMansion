@@ -1,0 +1,29 @@
+    alert(" So you went for the Common Room, decent choice. There is a door at the end of the hallway.")
+    alert(" It has a math problem, this is how it goes.")
+  
+  
+  alert("Correct Answer.")
+        alert("The door slides open connecting the den.")
+        alert("You enter the den to find a box, the box has a question")
+        var correct2 =prompt("How many presidents have there been?")
+        if(correct2 == 45){
+            alert("Another correct answer, with this the box opens revealing a key.")
+            alert("A note on the key, reads: 'You have completed a part of the quest, you did not make it to the treasury but you get this key.") 
+            alert("You look at the key and it has words engraved on it")
+            alert("If you obatin the key, the dumbwaiter will open")
+            alert("You go to open the dumbwaiter, however there is a keypad.")
+            var arrange=confirm("Please rearrange the following: nchupdceo ")
+            if (arrange=="punchcode"){
+                alert("Correct, please proceed to the basement.")
+            alert("You get to the basement, and are amazed at the pristine of it. ")
+            alert("You see a large vault and one final puzzle")
+                var finalchoice=confirm("Do you want to solve the puzzle or search for clues?")
+                if (finalchoice=)
+                }else{
+
+            }
+            }else {
+                alert("Wrong Answer, the box detonates in your hands.")
+            }
+        } else{
+           alert("Wrong Answer, The floor beneath you opens up and you fall to your end.")
